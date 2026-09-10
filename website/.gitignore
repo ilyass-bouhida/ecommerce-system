@@ -1,0 +1,55 @@
+# ==================================================
+# AI CODING TOOLS / VIBE-CODING ARTIFACTS
+# Do NOT commit assistant-specific files
+# ==================================================
+
+# Claude
+**/.claude/
+**/CLAUDE.md
+**/CLAUDE.local.md
+
+# OpenCode
+**/.opencode/
+**/opencode.json
+**/opencode.jsonc
+
+# Cursor
+**/.cursor/
+**/.cursorrules
+
+# Windsurf
+**/.windsurf/
+**/.windsurfrules
+
+# Aider
+**/.aider*
+**/aider.chat.history.md
+
+# Continue / other coding assistants
+**/.continue/
+**/.codeium/
+**/.tabnine/
+
+# Copilot-specific local instructions
+**/.github/copilot-instructions.md
+
+# Agent instruction files
+**/AGENTS.md
+**/AGENT.md
+
+# Prompt / scratch / generated planning files
+**/prompts/
+**/*.prompt.md
+**/*PROMPT*.md
+**/*prompt*.txt
+**/AI_NOTES.md
+**/AI_INSTRUCTIONS.md
+**/VIBE*.md
+**/*vibe*.md
+
+# AI-generated temporary reports / scratch
+**/implementation-report*
+**/verification-report*
+**/agent-report*
+**/scratch/
+**/.scratch/
